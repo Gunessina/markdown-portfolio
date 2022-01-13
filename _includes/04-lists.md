@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Programming
+* Reading
+* Learning
+* Travel
+* Workouts
+  * Yoga
+  * Pilates
+  * Hiit
+ 
